@@ -1,4 +1,6 @@
+;......_ ......*
 ; disasSembly of "yell.gbc"
+;. . . . . . . . . . . . . . . .*
 SECTION "ROM Bank $00f", ROMX[$4000], BANK[$f]
 
     jr jr_00f_401b

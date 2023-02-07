@@ -1,4 +1,6 @@
+;......_ ......*
 ; disasSembly of "yell.gbc"
+;. . . . . . . . . . . . . . . .*
 SECTION "ROM Bank $03d", ROMX[$4000], BANK[$3d]
 
     ld a, [$d056]

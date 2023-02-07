@@ -1,4 +1,6 @@
+;......_ ......*
 ; disasSembly of "yell.gbc"
+;. . . . . . . . . . . . . . . .*
 SECTION "ROM Bank $01c", ROMX[$4000], BANK[$1c]
 
 Call_01c_4000:
