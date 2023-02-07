@@ -1,4 +1,6 @@
+;......_ ......*
 ; disasSembly of "yell.gbc"
+;. . . . . . . . . . . . . . . .*
 SECTION "ROM Bank $028", ROMX[$4000], BANK[$28]
 
     ld bc, $cfd9
