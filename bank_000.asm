@@ -1,4 +1,6 @@
+;......_ ......*
 ; disasSembly of "yell.gbc"
+;. . . . . . . . . . . . . . . .*
 SECTION "ROM Bank $000", ROM0[$0]
 
 RST_00::
