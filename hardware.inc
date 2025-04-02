@@ -1,4 +1,5 @@
-
+;#.     #
+;       what
     IF !DEF(HARDWARE_INC)
 HARDWARE_INC SET 1
 
