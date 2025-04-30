@@ -1,3 +1,4 @@
+#.        #
 all: yell.gbc
 
 %.2bpp: %.png
